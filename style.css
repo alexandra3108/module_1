@@ -1,0 +1,141 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.top{
+	height: 900px;
+	width: 2000px;
+	background-image: url(bg-1.png);
+	background-repeat: no-repeat;
+	background-color: #2ecc71;
+	background-position: center;
+	background-size: contain;
+	padding: 32px 414px;
+}
+.fit{
+width: 133px;
+height: 38px;
+color: #f4f4f4;
+font-family: "Segoe UI Black";
+font-size: 39px;
+font-weight: 900;
+font-style: italic;
+line-height: 24.12px;
+letter-spacing: 1.92px;
+display: inline;
+vertical-align: middle;
+margin-right: 334px;
+}
+
+.menu{
+width: 511px;
+height: 18px;
+color: #fefefe;
+font-family: Roboto;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0.72px;
+text-decoration: none;
+display: inline;
+vertical-align: middle;
+}
+.get{
+color: #2ecc71;
+font-family: Roboto;
+font-size: 18px;
+font-weight: 700;
+line-height: 30px;
+letter-spacing: 0.72px;
+background-color: #ffffff;
+border-radius: 21px;
+width: 140px;
+height: 42px;
+padding: 12px 36px;
+text-decoration: none;
+display: inline;
+vertical-align: middle;
+}
+
+.menu a {
+	margin-right: 20px;
+}
+.logo{
+	width: 111px;
+    height: 111px;
+    margin-top: 197px;
+    margin-bottom: 66px;
+}
+h1 {
+width: 624px;
+height: 62px;
+color: #f4f4f4;
+font-family: Roboto;
+font-size: 64px;
+font-weight: 300;
+line-height: 60px;
+font-family: "Roboto Light";
+font-weight: 300;
+letter-spacing: 2.56px;
+margin-bottom: 22px;
+}
+
+span {
+font-family: "Roboto - Bold";
+font-weight: 700;
+letter-spacing: 2.56px;
+}
+.text{
+	margin-bottom: 66px;
+}
+p {
+width: 627px;
+height: 82px;
+color: #f4f4f4;
+font-family: Roboto;
+font-size: 18px;
+font-weight: 300;
+line-height: 32px;
+letter-spacing: 0.72px;
+}
+.app {
+margin-right: 30px;
+}
+.phone {
+position: relative;
+width: 404px;
+height: 753px;
+margin-left: 123px;
+top: 85px;
+}
+.top .line {
+	display: inline-block;
+}
+
+.fruit{
+position: relative;	
+width: 155px;
+height: 185px;
+margin-left: 945px;
+}
+/*-----------------------page2*/
+
+.second{
+	height: 900px;
+	width: 2000px;
+	background-color: #ffffff;
+	padding: 111px 346px;
+}
+.mobile{
+	width: 412px;
+    height: 747px;
+    position: absolute;
+    display: inline-block;
+    left: 300px;
+}
+.circles{
+position: relative;
+width: 467px;
+height: 467px;
+}
